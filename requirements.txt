@@ -3,3 +3,5 @@ opencv-python
 pyzbar
 pdf2image
 Pillow
+gunicorn
+
