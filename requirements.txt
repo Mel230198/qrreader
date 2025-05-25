@@ -1,0 +1,5 @@
+Flask==2.3.3
+opencv-python
+pyzbar
+pdf2image
+Pillow
